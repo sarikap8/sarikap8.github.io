@@ -1,0 +1,255 @@
+body {
+  font-family: 'Roboto';
+  background-color: #EEE2DF;
+ }
+ 
+ 
+ nav {
+  background-color: #363457;
+  /* color: #363457; */
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: -15px;
+  margin-left: -15px;
+  margin-right: -20px;
+ }
+ 
+ 
+ .title {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Syne Mono';
+  color: #363457;
+  text-shadow: 0.08em 0.08em 0 #76BED0;
+  margin-bottom: -75px;
+ }
+ 
+ 
+ .animated-typing {
+  text-align: center;
+  font-size: 40px;
+ }
+ 
+ 
+ nav ul {
+  list-style: none;
+  display: flex;
+ }
+ 
+ 
+ nav ul li {
+  margin-right: 20px;
+ }
+ 
+ 
+ nav a {
+  color: white;
+  text-decoration: none;
+ }
+ 
+ 
+ nav a:hover {
+  text-decoration: underline;
+ }
+ 
+ 
+ /* Add these styles to your CSS file */
+ 
+ 
+ .home-container {
+  text-align: center; /* Center the content within the container */
+  padding: 20px;
+ }
+ 
+ 
+ .flex-container {
+  display: flex;
+  justify-content: center; /* Adjust as needed */
+  align-items: center;
+  flex-direction: row;
+ }
+ 
+ 
+ .image-container-home {
+  margin-right: 20px; /* Adjust the spacing between image and typing animation */
+ }
+ 
+ 
+ .image {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  /* margin-left: -45px; */
+  /* margin-right: -5px; */
+ }
+ 
+ 
+ .animated-typing-container {
+  max-width: 400px; /* Adjust the maximum width as needed */
+  width: 100%; /* Ensures responsiveness */
+ }
+ 
+ 
+ .about-flex {
+  display: flex;
+  justify-content: center; /* Center the items horizontally */
+  align-items: center;
+  flex-wrap: wrap; /* Allow items to wrap to the next line if there's not enough space */
+ }
+ 
+ 
+ .about-flex img {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  margin-right: 20px; /* Adjust the spacing between the image and text */
+ }
+ 
+ 
+ .aboutme {
+  flex: 1; /* Allow the text to take remaining available space */
+ }
+ 
+ 
+ .aboutme p {
+  font-size: xx-large;
+  max-width: 800px; /* Adjust the maximum width of the paragraph as needed */
+  margin: 0; /* Remove default margin to avoid extra spacing */
+  /* Your existing styles for the paragraph */
+ }
+ 
+ 
+ /* FadeInSection.css */
+ .fade-section {
+  opacity: 0;
+  transform: translateY(20px); /* Adjust the initial position as needed */
+  transition: opacity 0.6s ease, transform 0.6s ease;
+ }
+ 
+ 
+ .fade-section.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+ }
+ 
+ 
+ /* TabsBox.css */
+ .tabs-box {
+  max-width: 800px; /* Set the maximum width of the box */
+  margin: 0 auto; /* Center the box horizontally */
+ }
+ 
+ 
+ .tab-header {
+  display: flex;
+  background-color: #BA7BA1; /* Background color for the tab header */
+ }
+ 
+ 
+ .tab {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #BA7BA1;
+ }
+ 
+ 
+ .tab:hover {
+  background-color: #e0e0e0;
+ }
+ 
+ 
+ .tab.active {
+  background-color: #76BED0;
+ }
+ 
+ 
+ .tab-content {
+  padding: 20px;
+  border: 5px solid #BA7BA1;
+  text-align: left;
+ }
+ 
+ 
+ 
+ 
+ .ip {
+  text-align: center;
+ }
+ 
+ 
+ /* ExperienceSection.css */
+ .experience-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+ }
+ 
+ 
+ .experience-photo {
+  width: 400px; /* Adjust the width as needed */
+  margin-right: 20px;
+  border-radius: 8px; /* Add border-radius for rounded corners */
+  border-style: dashed;
+  padding: 10px;
+  border-color: #BA7BA1;
+ }
+ 
+ 
+ .experience-details {
+  flex: 1;
+  text-align: left;
+ }
+ 
+ 
+ /* App.css */
+ .image-container {
+  width: 100vw; /* Full width of the viewport */
+  height: 100px; /* Set the desired fixed height */
+  overflow: hidden; /* Hide overflow to prevent vertical scrollbar */
+ }
+ 
+ 
+ .repeated-background {
+  width: 100%;
+  height: 100%;
+  background-image: url('/public/border.png'); /* Replace with the actual path to your image */
+  background-size: contain; /* Maintain aspect ratio */
+  background-repeat: repeat-x; /* Repeat horizontally */
+ }
+ 
+ 
+ /* SocialIcons.css */
+ .social-icons {
+  display: flex;
+  justify-content: center;
+ }
+ 
+ 
+ .icon {
+  font-size: 70px; /* Adjust the font size as needed */
+  margin: 0 10px; /* Adjust the margin between icons as needed */
+  color: #333; /* Adjust the icon color as needed */
+ }
+ 
+ 
+ .icon:hover {
+  color: #0077b5; /* Change color on hover, adjust as needed */
+ }
+ 
+ 
+ .socials p {
+  text-align: center;
+  padding: 40px;
+ }
+ 
+ 
+ .swe {
+  height: 400px;
+  width: auto;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ 
