@@ -13,6 +13,7 @@ const Navigation = () => {
     { name: 'About', href: '#about' },
     { name: 'Projects', href: '#projects' },
     { name: 'Skills', href: '#skills' },
+    { name: 'CS 180 Portfolio', href: 'https://sarikap8.github.io/cs180-portfolio/', external: true },
     { name: 'Contact', href: '#contact' },
   ]
 
@@ -25,10 +26,14 @@ const Navigation = () => {
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
 
-  const scrollToSection = (href: string) => {
-    const element = document.querySelector(href)
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' })
+  const handleNavClick = (href: string, external?: boolean) => {
+    if (external) {
+      window.open(href, '_blank', 'noopener,noreferrer')
+    } else {
+      const element = document.querySelector(href)
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' })
+      }
     }
     setIsMobileMenuOpen(false)
   }
@@ -49,7 +54,7 @@ const Navigation = () => {
           <motion.div
             whileHover={{ scale: 1.05 }}
             className="font-bold text-xl gradient-text cursor-pointer"
-            onClick={() => scrollToSection('#home')}
+            onClick={() => handleNavClick('#home')}
           >
             Sarika P.
           </motion.div>
@@ -59,7 +64,7 @@ const Navigation = () => {
             {navItems.map((item) => (
               <motion.button
                 key={item.name}
-                onClick={() => scrollToSection(item.href)}
+                onClick={() => handleNavClick(item.href, item.external)}
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="text-slate-700 hover:text-purple-600 font-medium transition-colors duration-200 relative group"
@@ -93,7 +98,7 @@ const Navigation = () => {
                 {navItems.map((item) => (
                   <motion.button
                     key={item.name}
-                    onClick={() => scrollToSection(item.href)}
+                    onClick={() => handleNavClick(item.href, item.external)}
                     whileHover={{ x: 5 }}
                     className="block w-full text-left px-4 py-2 text-slate-700 hover:text-purple-600 font-medium transition-colors duration-200"
                   >
