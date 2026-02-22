@@ -45,13 +45,11 @@ I also collaborate with [Prof. Gopala Anumanchipalli](https://people.eecs.berkel
 
 ## Coursework
 
-**Computer Science:** CS 61A/B/C (Structure & Interpretation, Data Structures, Computer Architecture), CS 70 (Discrete Math & Probability), CS 161 (Computer Security), CS 162 (Operating Systems), CS 170 (Algorithms), CS 180 (Computer Vision — [portfolio](https://sarikap8.github.io/cs180-portfolio/)), CS 185 (Deep Reinforcement Learning), CS 188 (Artificial Intelligence), CS 189 (Machine Learning), EECS 106A (Robotics), EECS 127 (Optimization)
+**CS:** 61A, 61B, 61C, 70, 161, 162, 170, [180](https://sarikap8.github.io/cs180-portfolio/), 185, 188, 189, 195, 375 &#124; **EECS:** 106A, 127 &#124; **Data:** 8, 100
 
-**Data Science:** Data 8 (Foundations of Data Science), Data 100 (Principles & Techniques of Data Science)
+**Business:** UGBA 10, 100, 102A/B, 103, 104, 105, 106, 107, 135, 191L, 192B/T/ID/MC &#124; **Econ:** 1, 100A/B
 
-**Business:** UGBA 10 (Principles of Business), UGBA 100 (Business Communication), UGBA 102A/B (Financial & Managerial Accounting), UGBA 103 (Finance), UGBA 104 (Business Analytics), UGBA 105 (Leading People), UGBA 106 (Marketing)
-
-**Economics:** ECON 1 (Intro to Economics), ECON 100A/B (Micro & Macroeconomics)
+**Misc:** Math 54, BioE 25, LS 22, ESPM 50AC, NutSci 104, MCB W61, Music 31, PH 116
 
 ## Beyond Research
 
