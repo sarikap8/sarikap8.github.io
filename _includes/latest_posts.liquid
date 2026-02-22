@@ -1,0 +1,15 @@
+{% if site.posts.size > 0 %}
+<div class="latest-posts">
+  <ul class="post-list">
+    {% assign latest_posts = site.posts | slice: 0, site.latest_posts.limit %}
+    {% for post in latest_posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% else %}
+<p>No blog posts yet. Check back soon!</p>
+{% endif %}
