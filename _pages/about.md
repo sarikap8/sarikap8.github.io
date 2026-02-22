@@ -43,6 +43,16 @@ I work with [Prof. Irene Chen](https://irenechen.net/) and [Prof. Yulin Hswen](h
 
 I also collaborate with [Prof. Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) at the **Berkeley Speech Group**, developing automated systems for diagnosing Primary Progressive Aphasia from narrative speech.
 
+## Coursework
+
+**Computer Science:** CS 61A/B/C (Structure & Interpretation, Data Structures, Computer Architecture), CS 70 (Discrete Math & Probability), CS 161 (Computer Security), CS 162 (Operating Systems), CS 170 (Algorithms), CS 180 (Computer Vision — [portfolio](https://sarikap8.github.io/cs180-portfolio/)), CS 185 (Deep Reinforcement Learning), CS 188 (Artificial Intelligence), CS 189 (Machine Learning), EECS 106A (Robotics), EECS 127 (Optimization)
+
+**Data Science:** Data 8 (Foundations of Data Science), Data 100 (Principles & Techniques of Data Science)
+
+**Business:** UGBA 10 (Principles of Business), UGBA 100 (Business Communication), UGBA 102A/B (Financial & Managerial Accounting), UGBA 103 (Finance), UGBA 104 (Business Analytics), UGBA 105 (Leading People), UGBA 106 (Marketing)
+
+**Economics:** ECON 1 (Intro to Economics), ECON 100A/B (Micro & Macroeconomics)
+
 ## Beyond Research
 
 Outside the lab, I play **intramural soccer** at Cal, maintain a running list of Bay Area matcha spots (always looking for recommendations), and love getting lost in a good book. Originally from **San Diego** — always happy to chat about the best burrito spots.
