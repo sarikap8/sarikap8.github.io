@@ -14,10 +14,8 @@ Zhou D\*, Pan S\*, Lian J, Banerjee S, **Pasumarthy S**, Hebbar D, Patel S, Li Z
 *ICML 2026* (Submitted)  
 [[arXiv]](https://arxiv.org/abs/2602.11065)
 
-**Automated Phonetic-Semantic Dissociation for svPPA Classification from Picture Description Speech**  
-**Pasumarthy S**\*, Li M\*, Lian J, Yang E, Kurdeff L, Anumanchipalli G  
-*Interspeech 2026* (Submitted)  
-\*Equal contribution
+**[Title withheld for double-blind review]**  
+*Interspeech 2026* (Under Review)
 
 **Sex-Differences in Morbidity Burden**  
 **Pasumarthy SL**, Brubaker L, Chen IY\*, Hswen Y\*  

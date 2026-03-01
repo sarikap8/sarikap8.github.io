@@ -21,11 +21,11 @@ We introduce a framework for modeling human conversation as multi-level percepti
 
 ---
 
-## Phonetic-Semantic Dissociation for PPA Classification
-**Berkeley Speech Group** | Interspeech 2026 (Submitted)  
+## Speech Biomarkers for Neurocognitive Disorders
+**Berkeley Speech Group** | Interspeech 2026 (Under Review)  
 *with Prof. Gopala Anumanchipalli*
 
-Developing automated speech biomarkers for classifying Primary Progressive Aphasia (PPA) subtypes from picture description tasks. We introduce a phonetic-semantic dissociation index that operationalizes the clinically validated double dissociation between phonological and semantic processing — svPPA produces intact phonology with degraded semantics, while nfvPPA and lvPPA show the reverse pattern. The pipeline requires no manual annotation, using automatic speaker diarization and ASR.
+Developing automated speech-based methods for detecting and classifying neurocognitive disorders from naturalistic speech samples. Details withheld for double-blind review.
 
 ---
 
