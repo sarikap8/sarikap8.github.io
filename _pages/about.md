@@ -34,7 +34,7 @@ My research lies at the intersection of **computational linguistics**, **clinica
 
 I work with [Prof. Irene Chen](https://irenechen.net/) and [Prof. Yulin Hswen](https://profiles.ucsf.edu/yulin.hswen) at **Computational Precision Health** (UC Berkeley & UCSF), investigating sex differences in multimorbidity burden.
 
-I also collaborate with [Prof. Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) at the **Berkeley Speech Group**, developing automated systems for on speech and language technologies for healthcare.
+I also collaborate with [Prof. Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) at the **Berkeley Speech Group** on speech and language technologies for healthcare.
 
 ## Coursework
 
