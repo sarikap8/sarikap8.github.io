@@ -38,7 +38,7 @@ I collaborated with [Prof. Gopala Anumanchipalli](https://people.eecs.berkeley.e
 
 ## Coursework
 
-**CS:** 61A, 61B, 61C, 70, 161, 162, 170, [180](https://sarikap8.github.io/cs180-portfolio/), 185, 188, 189, 195, 375 &#124; **EECS:** 106A, 127 &#124; **Data:** 8, 100
+**CS:** 61A, 61B, 61C, 70, 161, 162, 170, [180](https://sarikap8.github.io/cs180-portfolio/), 185, 188, 189, 195, 375 &#124; **EECS:** [106A](https://shivanshitandon.github.io/tidyer/), 127 &#124; **Data:** 8, [100](https://sarikap821.notion.site/)
 
 **Business:** UGBA 10, 100, 102A/B, 103, 104, 105, 106, 107, 135, 191L, 192B/T/ID/MC, 198 &#124; **Econ:** 1, 100A/B
 
