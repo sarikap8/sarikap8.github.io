@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>From San Diego, CA</p>
     <p>sarikapasumarthy@berkeley.edu</p>
+    <p>slp2185@columbia.edu</p>
 
 news: true
 selected_papers: true
