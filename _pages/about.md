@@ -32,7 +32,7 @@ My research lies at the intersection of **computational linguistics**, **clinica
 
 ## Research
 
-At Berkeley, I worked with [Prof. Irene Chen](https://irenechen.net/) and [Prof. Yulin Hswen](https://profiles.ucsf.edu/yulin.hswen) at **Computational Precision Health** (UC Berkeley & UCSF), investigating sex differences in multimorbidity burden and racial/ethnic heterogeneity in menopause onset. I also led the [Menopause AI Initiative](https://menopause-ai.org), building AI tools to improve menopause care.
+At Berkeley, I worked with [Prof. Irene Chen](https://irenechen.net/) and [Prof. Yulin Hswen](https://profiles.ucsf.edu/yulin.hswen) at **Computational Precision Health** (UC Berkeley & UCSF), investigating sex differences in multimorbidity burden and racial/ethnic heterogeneity in menopause onset. I also contributed to the [Menopause AI Initiative](https://menopause-ai.org), where I built and maintain the initiative's website.
 
 I collaborated with [Prof. Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) at the **Berkeley Speech Group** on speech and language technologies for healthcare.
 
