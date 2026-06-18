@@ -8,9 +8,9 @@ nav_order: 5
 ---
 
 ## Lead Teaching Assistant — Data 100
-**UC Berkeley EECS** | 2023–Present
+**UC Berkeley EECS** | 2023–2026
 
-I serve as a **Lead TA** for Data 100: Principles & Techniques of Data Science, one of Berkeley's largest courses. Over seven semesters, I have:
+Served as a **Lead TA** for Data 100: Principles & Techniques of Data Science, one of Berkeley's largest courses. Over seven semesters:
 
 - Taught **5,000+ students** in machine learning and statistical inference
 - Led weekly discussion sections and office hours
