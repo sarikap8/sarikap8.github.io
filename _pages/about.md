@@ -6,7 +6,7 @@ subtitle: Incoming PhD Student, <a href='https://www.cs.columbia.edu/'>Columbia 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sarika_linkedin.png
   image_circular: false
   more_info: >
     <p>From San Diego, CA</p>
@@ -17,9 +17,9 @@ selected_papers: false
 social: true
 ---
 
-I am an incoming **PhD student in Computer Science at Columbia University** (August 2026), joining the [Spoken Language Processing Group](http://www.cs.columbia.edu/speech/lab.cgi) advised by [Professor Julia Hirschberg](http://www.cs.columbia.edu/~julia/). My research will focus on clinical natural language processing and computational approaches to healthcare.
+I am an incoming **PhD student in Computer Science at Columbia University** (August 2026), joining the [Spoken Language Processing Group](http://www.cs.columbia.edu/speech/lab.cgi) advised by [Professor Julia Hirschberg](http://www.cs.columbia.edu/~julia/). My research focuses on clinical natural language processing and computational approaches to healthcare.
 
-Currently, I am completing dual degrees at **UC Berkeley** — a B.A. in Computer Science from the College of Computing, Data Science & Society and a B.S. in Business Administration from the Haas School of Business (expected May 2026).
+I graduated from **UC Berkeley** with a B.A. in Computer Science from the College of Computing, Data Science & Society and a B.S. in Business Administration from the Haas School of Business (May 2026).
 
 ## Research Interests
 
@@ -30,11 +30,11 @@ My research lies at the intersection of **computational linguistics**, **clinica
 - Large-scale electronic health record (EHR) analysis
 - Human-centered and trustworthy clinical AI
 
-## Current Research
+## Research
 
-I work with [Prof. Irene Chen](https://irenechen.net/) and [Prof. Yulin Hswen](https://profiles.ucsf.edu/yulin.hswen) at **Computational Precision Health** (UC Berkeley & UCSF), investigating sex differences in multimorbidity burden.
+At Berkeley, I worked with [Prof. Irene Chen](https://irenechen.net/) and [Prof. Yulin Hswen](https://profiles.ucsf.edu/yulin.hswen) at **Computational Precision Health** (UC Berkeley & UCSF), investigating sex differences in multimorbidity burden and racial/ethnic heterogeneity in menopause onset. I also led the [Menopause AI Initiative](https://menopause-ai.org), building AI tools to improve menopause care.
 
-I also collaborate with [Prof. Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) at the **Berkeley Speech Group** on speech and language technologies for healthcare.
+I collaborated with [Prof. Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) at the **Berkeley Speech Group** on speech and language technologies for healthcare.
 
 ## Coursework
 
@@ -46,4 +46,4 @@ I also collaborate with [Prof. Gopala Anumanchipalli](https://people.eecs.berkel
 
 ## Beyond Research
 
-Outside the lab, I play **intramural soccer** at Cal, maintain a running list of Bay Area matcha spots (always looking for recommendations), and love getting lost in a good book. Originally from **San Diego** — always happy to chat about the best burrito spots.
+Outside the lab, I play **intramural soccer**, maintain a running list of Bay Area matcha spots (always looking for recommendations), and love getting lost in a good book. Originally from **San Diego** — always happy to chat about the best burrito spots.
