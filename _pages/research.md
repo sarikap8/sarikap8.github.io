@@ -34,9 +34,11 @@ S-MARC introduces a causal streaming reasoning framework for modeling full-duple
 ### Heterogeneity across Race and Ethnicity for Menopause Onset
 **Sarika Pasumarthy**, Maggie Hurley, Irene Y. Chen, Nitya Thakkar, Monica Agrawal, Yulin Hswen
 
-*Submitted to npj Women's Health (Nature Portfolio)* 
+*Submitted to npj Women's Health (Nature Portfolio)* &nbsp;|&nbsp; [medRxiv Preprint](https://www.medrxiv.org/content/10.64898/2026.06.28.26356782v1)
 
 Using the NIH All of Us Research Program Controlled Tier dataset (v8, n = 11,306), we analyze age at first menopause diagnosis across three progressively refined cohorts, finding that Asian & Pacific Islander and Indigenous/Other individuals experience significantly earlier menopause onset than White individuals after covariate adjustment.
+
+*Associated project: [Menopause AI Initiative](https://menopause-ai.org)*
 
 ---
 
