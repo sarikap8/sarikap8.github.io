@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted two papers to **EMNLP 2026**: [Interpretable Phonological-Semantic Dissociation Scoring for Automated svPPA Subtyping](https://openreview.net/forum?id=Ppnu4Afi1N) and [S-MARC: Causal Streaming Reasoning for Full-Duplex Conversational Behavior Modeling](https://openreview.net/forum?id=Csf4irKinu).
+Submitted our paper **"Heterogeneity across Race and Ethnicity for Menopause Onset"** to npj Women's Health (Nature Portfolio). [medRxiv preprint](https://www.medrxiv.org/content/10.64898/2026.06.28.26356782v1) available.
