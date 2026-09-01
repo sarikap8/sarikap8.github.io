@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming PhD Student, <a href='https://www.cs.columbia.edu/'>Columbia University</a>
+subtitle: PhD Student, <a href='https://www.cs.columbia.edu/'>Columbia University</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true
 social: true
 ---
 
-I am an incoming **PhD student in Computer Science at Columbia University** (August 2026), joining the [Spoken Language Processing Group](http://www.cs.columbia.edu/speech/lab.cgi) advised by [Professor Julia Hirschberg](http://www.cs.columbia.edu/~julia/). My research focuses on clinical natural language processing and computational approaches to healthcare.
+I am a **PhD student in Computer Science at Columbia University** (August 2026), joining the [Spoken Language Processing Group](http://www.cs.columbia.edu/speech/lab.cgi) advised by [Professor Julia Hirschberg](http://www.cs.columbia.edu/~julia/). My research focuses on clinical natural language processing and computational approaches to healthcare.
 
 I graduated from **UC Berkeley** with a B.A. in Computer Science from the College of Computing, Data Science & Society and a B.S. in Business Administration from the Haas School of Business (May 2026).
 

@@ -46,9 +46,3 @@ Built a Go-based image-processing pipeline improving runtime by 79% and throughp
 - Managed club branding, recruitment, and DEI partnerships
 - Delivered production-ready applications for social impact organizations
 
----
-
-### NEXT for Autism — Software Developer
-**Contract**
-
-Built technology solutions for autism support, reducing supervisor monitoring time by 30%. Applied user-centered design principles for accessible interfaces.

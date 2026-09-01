@@ -26,8 +26,14 @@ Taught AP Calculus, AP Statistics, and introductory Data Science to underserved 
 
 ---
 
+## [JamCoders](https://jamcoders.org.jm/syllabus/2026/) — Instructor
+**Kingston, Jamaica** | July 2026
+
+Teaching programming and CS fundamentals to Jamaican high school students at JamCoders, a summer intensive camp aimed at expanding access to computer science education in Jamaica.
+
+---
+
 ## Mentorship & Outreach
 
-- **K–12 Coding Workshops** — Programming workshops for elementary and middle school students
-- **NEXT for Autism** — Mentored beginner engineers through nonprofit technology projects
+- **K-12 Coding Workshops** — Programming workshops for elementary and middle school students
 - **Data Scholars** — Equity-centered teaching practices for underrepresented students in data science
